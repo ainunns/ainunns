@@ -168,7 +168,7 @@
   />
   <img
     height="180"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ainunns&theme=tokyonight"
+    src="https://github-readme-streak-stats-ainunns.vercel.app/?user=ainunns&theme=tokyonight"
     alt="ainunns"
   />
 </div>
