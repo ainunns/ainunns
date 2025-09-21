@@ -6,13 +6,13 @@
     ><img
       align="center"
       src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
+      alt="ainunsyamsiyah@gmail.com"
   /></a>
   <a href="https://linkedin.com/in/ainun-nadhifah-syamsiyah" target="blank"
     ><img
       align="center"
       src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="ainun-nadhifah-syamsiyah"
+      alt="https://linkedin.com/in/ainun-nadhifah-syamsiyah"
   /></a>
   <a href="https://twitter.com/aainunns" target="blank"
     ><img
@@ -20,17 +20,17 @@
       src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"
       alt="aainunns"
   /></a>
-  <a href="https://leetcode.com/u/ainunsy1/" target="blank"
+  <a href="https://leetcode.com/u/ainunns/" target="blank"
     ><img
       align="center"
       src="https://img.shields.io/badge/-Leetcode-FFA116?style=for-the-badge&logo=Leetcode&logoColor=white"
-      alt="ainun-nadhifah-syamsiyah"
+      alt="https://leetcode.com/u/ainunns/"
   /></a>
   <a href="https://codeforces.com/profile/ainunsy1" target="blank"
     ><img
       align="center"
       src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"
-      alt="ainun-nadhifah-syamsiyah"
+      alt="https://codeforces.com/profile/ainunsy1"
   /></a>
 </div>
 
