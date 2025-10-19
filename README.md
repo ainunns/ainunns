@@ -42,7 +42,7 @@
 - 👯 I'm open to collaborating on backend-focused projects
 - 📫 How to reach me [ainunsyamsiyah@gmail.com](mailto:ainunsyamsiyah@gmail.com)
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ainunns?tab=repositories)
-- 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/1JDMOxS2P-VkVkMg3Ftz_hhh2n1rnkV9t/view?usp=sharing)
+- 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/1pONwmg43yfw1T34vxwPfF2EqSp10cRSf/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 
